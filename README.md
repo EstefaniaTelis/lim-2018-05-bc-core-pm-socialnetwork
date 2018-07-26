@@ -1,7 +1,12 @@
-# RED SOCIAL
+# COOLTURAL
 
-## ¿Qué es **nombre de red social**?
-## ¿Quiénes son los principales usuarios de **nombre de red social**?
+Mira nuestro demo → [**_AQUÍ_**](https://elment9.github.io/lim-2018-05-bc-core-pm-socialnetwork/src/)
+
+La cultura y las artes juegan un papel importante en nuestra sociedad,porque promueven experiencias y aprendizajes fundamentales para todos los seres humanos. Nos enseñan a descubrir quienes somos y cómo nos relacionamos con nuestro entorno.
+
+## ¿Qué es Cooltural?
+## ¿Quiénes son los principales usuarios de Cooltural?
+ 
 
 ## Antes de empezar: ¿Cuáles son los elementos de una red social?
 
@@ -36,13 +41,19 @@ Las conexiones intelectuales que se labran con el intercambio cultural se intens
 Tiene mucho sentido que conectar con otra persona por nuestros intereses literarios y cinematográficos sea algo emotivo, porque las novelas que leemos y los filmes que contemplamos forjan en parte nuestra memoria emocional. Y como esta memoria es imperfecta, las redes sociales de películas y libros pueden ser una buena muleta para nosotros, así que merecen una oportunidad.
 
 ### Hipótesis
-En el Perú y en Latinoamérica hay una gran cantidad de artistas y personas interesadas en actividades culturales  que carecen de un espacio digital propio en donde- además de compartir su talento y eventos-puedan generar redes de contacto. 
+
+La educación cultural y artística desempeña un papel fundamental en la vida de los ciudadanos porque estimula experiencias y aprendizajes básicos para todas las personas. Sin embargo, en Perú y Latinoamérica existe poca difusión de actividades culturales y del talento artístico. 
+
 
 ### Guía de preguntas
+
+### Encuesta a usuarios
+
+### Guía de preguntas
+
 ![](https://user-images.githubusercontent.com/39272944/43011573-882f38ea-8c09-11e8-9402-6e0c547fe83a.jpg)
 
-### Resultado, análisis y conclusiones de encuesta a usuarios
-
+### Resultados
 A partir de la encuesta online realizada a 30 usuarios, se llegó a las siguientes conclusiones:
 
 * Gran parte de los usuarios son estudiantes.
@@ -54,20 +65,33 @@ A partir de la encuesta online realizada a 30 usuarios, se llegó a las siguient
 
 ![](https://user-images.githubusercontent.com/39272944/43011572-880d7854-8c09-11e8-94fa-acb202e45fcd.jpg)
 
-## Definición 
 
-## Prototipado
+### Conclusiones
 
-### - Prototipo de baja fidelidad
-**-Login**
-![login](https://user-images.githubusercontent.com/39272944/43022802-11c58784-8c2e-11e8-9743-ddf673b66b0f.jpg)
+En el Perú y en Latinoamérica hay una gran cantidad de artistas y personas interesadas en actividades culturales que carecen de un espacio digital propio en donde- además de compartir su talento y eventos-puedan generar redes de contacto. 
 
-### - Prototipo de media fidelidad
-### - Prototipo ideal
-###  Test con usuario: conclusiones 
+### Entrevista 1 :Usuarios
 
+###Guía de preguntas
+![](https://user-images.githubusercontent.com/39272944/43245203-17c007a6-9073-11e8-8370-062082df3d18.jpg)
 
-##  Benchmark: competencia (Red social para artistas)
+### Conclusiones
+
+Luego de entrevistas a los usuarios llegamos a las siguientes conclusiones:
+
+* Los usuarios usan dispositivos móviles gran parte del día, pues lo pueden transportar con facilidad y les ofrece la ventaja de realizar distintas funciones.
+* Las redes sociales más usadas son Facebook e Instagram.
+* Los usuarios que interesados en actividades culturales y artísticas que buscan información de forma activa tuvieron experiencias productivas en el colegio o han ejercido alguna actividad artística.
+* Los usuarios indican que desean un red social que les permita publicar  y compartir al igual que Facebook. Además, indican que quieren encontrar todos los eventos culturales. 
+* El tema visual es importante para ellos. Priorizan las imágenes sobre el texto. Desean información sucinta. Tambièn desean algo colorido.
+
+### Entrevista 1: Artistas
+
+### Guía de preguntas
+
+![](https://user-images.githubusercontent.com/39272944/43245252-3e4d0c8e-9073-11e8-8f81-bb5241b1aabe.jpg)
+
+##  Benchmark: Antecedentes (Red social para artistas)
 
 [**_Arte Manifiesto - Perú_**](http://www.artemanifiesto.com/)
 
@@ -103,6 +127,41 @@ Behance es la red social pensada para artistas e ilustradores propiedad de Adobe
 Resumen de entrevistas con usuarios
  Link/screenshots del prototipo de alta fidelidad.
  Conclusiones de testing con el producto en HTML.
+
+## Definición 
+
+## Prototipado
+
+### - Prototipo de baja fidelidad
+**-Login**
+![login](https://user-images.githubusercontent.com/39272944/43022802-11c58784-8c2e-11e8-9743-ddf673b66b0f.jpg)
+![photo5105341124570097637](https://user-images.githubusercontent.com/38727384/43291543-6843e33a-90f7-11e8-877e-826b24c341d0.jpg)
+![photo5105341124570097634](https://user-images.githubusercontent.com/38727384/43291544-6873b3c6-90f7-11e8-8374-fa7acfafb6a5.jpg)
+![photo5105341124570097635](https://user-images.githubusercontent.com/38727384/43291545-688ef492-90f7-11e8-948a-65dc4763ab3a.jpg)
+![photo5105341124570097636](https://user-images.githubusercontent.com/38727384/43291546-68b756ee-90f7-11e8-929a-0a88df9d133e.jpg)
+
+
+### - Prototipo de media fidelidad
+
+[Ver en Figma](https://www.figma.com/file/bFp2KSQNXLA33ndHvjCXKAsP/Cooltural-Social-Network?node-id=0%3A1)
+
+### - Prototipo ideal
+###  Test con usuario: conclusiones 
+
+## Creación de marca: Cooltural
+
+El nombre de la marca surgió a partir de dos palabras: Cool  y cultura. 
+
+### Nuestro eslogan:
+
+Antes de llegar al eslogan final, propusimos 4 eslogans: 
+-Vive la cultura
+-Arte con conciencia
+-Cultura para todos
+-Conecta, comparte, crea
+
+El eslogan con más puntaje fue:’ Conecta, comparte,  crea’. No obstante, por sugerencia de algunos usuarios, decidimos acortarlo a Comparte y conecta, pues tiene más fuerza y describe la propuesta de valor de nuestra red social. 
+
 
 ## Planificación
 

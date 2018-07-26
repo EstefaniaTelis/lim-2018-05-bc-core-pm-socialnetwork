@@ -40,3 +40,8 @@
     .btn-facebook.active {
         background-color: #0d2456 \9 !important;
     }
+
+    .posts-container {
+        height: 70vh;
+    }
+
